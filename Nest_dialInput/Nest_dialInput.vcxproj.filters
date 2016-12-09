@@ -32,5 +32,8 @@
     <ClCompile Include="Nest_dialInput.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Nest_dialInput.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
